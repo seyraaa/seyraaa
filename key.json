@@ -2,9 +2,5 @@
     "user": "u1",
     "data": {
         "status": "deactive"
-    }, 
-    "user": "u2",
-    "data": {
-        "status": "active"
     }
 }
